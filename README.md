@@ -1,2 +1,1 @@
-##Knapsack problem
-Implementation of knapsack problem solution using Branch & Bound algorithm. 
+Implementation of knapsack problem solution using Branch & Bound algorithm. Presentation of the soulution can be found in KapsackB&B.pdf Project finished in January 2019
